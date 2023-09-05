@@ -1,0 +1,35 @@
+270 Polishuk Denis | 89129990642
+349 Kuznetsova Polina | 89123214498
+
+100 Ignatova Viktoria | 89044762014
+
+256 Likhachev Alexey | 89042347172
+294 Lekanov Matvey | 89125542485
+122 Rutov Maksim | 89041482820
+341 Lobanov Arkadiy | 89058849974
+280 Bastangiev Matvey | 89052212202
+270 Polishuk Denis | 89129990642
+366 Gorbunov Nikita | 89052219532
+349 Kuznetsova Polina | 89123214498
+284 Volan-de-Mort | 88005553535
+286 Harry Potter | 88002000203
+
+
+Тесты для балансировки:
+294 Lekanov Matvey | 89125542485
+256 Likhachev Alexey | 89042347172
+122 Rutov Maksim | 89041482820
+341 Lobanov Arkadiy | 89058849974
+280 Bastangiev Matvey | 89052212202
+
+256 Likhachev Alexey | 89042347172
+294 Lekanov Matvey | 89125542485
+122 Rutov Maksim | 89041482820
+341 Lobanov Arkadiy | 89058849974
+280 Bastangiev Matvey | 89052212202
+270 Polishuk Denis | 89129990642
+366 Gorbunov Nikita | 89052219532
+349 Kuznetsova Polina | 89123214498
+284 Smetanina Ekaterina | 88005122214
+286 Alexander Popov | 89048874977
+
